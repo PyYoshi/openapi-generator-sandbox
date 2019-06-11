@@ -1,0 +1,6 @@
+apiPackage: api
+modelPackage: models
+withSeparateModelsAndApi: true
+npmName: calc-api
+withInterfaces: true
+supportsES6: true
